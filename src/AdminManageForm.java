@@ -25,7 +25,7 @@ import javax.swing.JTextField;
 import javax.swing.ImageIcon;
 
 public class AdminManageForm extends JFrame {  // This class is the interface designed for admin.
-
+	//Admin
 	private JPanel contentPane;
 	private JTextField brandtextField;
 	private JTextField nametextField;
@@ -125,7 +125,7 @@ public class AdminManageForm extends JFrame {  // This class is the interface de
 		panel.add(pricetextField);
 		
 		JButton buttonAddProduct = new JButton("Add Product");
-		////// burasý yeni eklendi
+		////// burasï¿½ yeni eklendi
 		buttonAddProduct.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 			}
