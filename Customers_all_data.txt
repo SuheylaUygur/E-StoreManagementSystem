@@ -1,0 +1,2 @@
+suheyla;uygur;suheyla;username;ShoppingCart@55e854bc;5780;555;password1234;Woman;22;111;222;4444;Turkey;Afyonkarahisar;Mercan
+suheyla;uygur;suheylaaa;1234;ShoppingCart@193a8f56;1399;555;password1234;Woman;22;333;222;1111;TR;Afyon;Mercan

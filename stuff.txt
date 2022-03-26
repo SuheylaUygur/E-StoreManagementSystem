@@ -1,0 +1,63 @@
+Apparel;Defacto;Pants;1;99;60.0
+Apparel;Mavi;Tshirt;2;49;50.0
+Apparel;LCWaikiki;Dress;3;76;100.0
+Apparel;Defacto;Skirt;4;199;80.0
+Apparel;H&M;Shirt;5;199;80.0
+Apparel;Koton;Jacket;6;99;120.0
+Apparel;Koton;Wrap;7;48;60.0
+Apparel;LC Waikiki;Socks;8;70;35.0
+Apparel;H&M;Scarf;9;40;90.0
+Apparel;H&M;Hat;10;29;70.0
+Electronic;Fakir;Torbasiz Supurge;301;100;730.0
+Electronic;Sinbo;Tost Makinesi;302;50;160.0
+Electronic;Bosch;Buzdolabi A++;303;80;4030.0
+Electronic;Bosch;sarjli Supurge;304;200;2030.0
+Electronic;Sinbo;Smoothie Blender;305;200;180.0
+Electronic;Asus;i7 8GB 512SSD;306;100;8628.0
+Electronic;Samsung;Galaxy A21s 64 GB;307;50;2630.0
+Electronic;Apple;AirPods kulaklik;308;70;87.0
+Electronic;Apple;20W USB-C sarj;309;40;229.0
+Electronic;Samsung;sarj Aleti Beyaz;310;30;190.0
+Cosmetic;Beaulis;3'lu oje Metalik;201;100;39.0
+Cosmetic;Maybelline;Maskara L.S.Black;202;50;60.0
+Cosmetic;Flormar;Waterproof Eyeliner;203;80;100.0
+Cosmetic;Elidor;Sac Bakim Spreyi;204;199;45.0
+Cosmetic;Urban Care;Argan Sac Spreyi;205;199;50.0
+Cosmetic;Neutrogena;El Kremi;206;100;50.0
+Cosmetic;Avon;Mat Ruj;207;49;60.0
+Cosmetic;L'Orial Paris;Eye Go Goz Fari;208;70;120.0
+Cosmetic;Sebamed Sun Care 50+spf;Krem;209;40;90.0
+Cosmetic;Nivea;Dudak Kremi;210;30;38.0
+Supermarket;ulker;cikolatali Gofret;101;99;3.0
+Supermarket;Eti;Petibor Biskuvi;102;50;3.0
+Supermarket;Uludag;Limonata;103;70;2.0
+Supermarket;cerezza;Sutlu Misir Patlagi;104;98;4.0
+Supermarket;icim;Yogurt;105;2004;10.0
+Supermarket;Danone;Meyveli Yogurt;106;100;3.0
+Supermarket;Eti;Petit Beurre Mini;107;50;2.0
+Supermarket;Amigo;Ay cekirdegi;108;69;5.0
+Supermarket;Indomie;Hazir Noodle;109;40;2.0
+Supermarket;Tadelle;Gofret;110;30;2.0
+Toys;Minikstore Pokemon Go;Top Firlatici Seti;1;99;70.0
+Toys;Hot Wheels;20'li Araba Seti;2;50;35.0
+Toys;Brawl Stars;Surpriz Yumurta;3;80;55.0
+Toys;Erdem Oyuncak;Mor Sepetli Scooter;4;200;123.0
+Toys;Pokemon;144 Mini Canavar;5;200;224.0
+Toys;LC Waikiki;Market Kasasi Seti;6;100;75.0
+Toys;Birlik Oyuncak;Ocakli Firin;7;50;56.0
+Toys;Orchard;Rainbow Unicorns;8;70;124.0
+Toys;Monsterflex;Super Esnek Figur;9;40;75.0
+Toys;LC Waikiki;Dinazor Seti;10;30;45.0
+Apparel;Mavi;Gloves;11;35;80.0
+Supermarket;ulker;Kreker;11;50;33.0
+Supermarket;ABC;Deterjan;12;30;53.0
+Cosmetic;flormar;oje;14;39;40.0
+Supermarket;Tadelle;Gofret;110;30;42.0
+Electronic;Apple;Macbook;112321;10;42.0
+Supermarket;KemalKukrer;Sirke;123545;25;34.0
+Cosmetic;Flormar;Blusher;123;45;60.0
+Electronic;Bosch;Tv;134;36;3030.0
+Supermarket;Eti;Balik;212113;20;22.0
+Toys;Nese;Traktor;32;120;1.0
+Supermarket;icim;peynir;123343;500;3.0
+Supermarket;Kizilay;Soda;1214;100;2.0
